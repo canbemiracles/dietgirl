@@ -1,0 +1,66 @@
+#left-area #post-27286 ul {
+    padding: 10px;
+    line-height: 26px;
+    list-style-type: none;
+}
+
+.icon-required {color: red;}
+.wpdmi-form-label {max-width:100%; min-width: 200px;display: inline-block;}
+.just-save {font-size:80%; }
+.tooltipsy {padding: 10px;max-width: 280px;color: #303030;background-color: rgba(245, 245, 181, .9);border: 1px solid #deca7e;font-size:80%;}
+.hastip {background:url(images/icon-help.png) no-repeat 50% 50%;cursor:pointer; width: 14px;height: 14px;line-height: 1;display: inline-block;}
+.wpmdi_notices {border-left:3px solid #dd3333;padding-left:3%; padding: 15px; background:#fff; list-style:none; }
+.wpmdi_notices.update { background-color: #dd3333; color: #fff; padding-left:3%; padding: 15px; margin-bottom:10px; list-style:none; }
+.wpdmi-text-center {text-align:center;}
+.wpdmi-instruction {
+	margin-top:8px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+@media only screen and (max-width: 414px) {
+	.wpdmi-form-label { min-width: auto; display: inline; }
+	.wpdmi-form-input { display:block; }
+	.wpdmi-form-input[name="height-inches"], .wpdmi-form-input[name="weight"], .wpdmi-form-input[name="height-feet"], .wpdmi-form-input[name="goal_weight"], .wpdmi-form-input[name="goal_rate"]
+		{ width: 50px; display: inline-block; }
+	#wpdmi-profile-form input[type="submit"] { margin-bottom:5px; }
+	.wpdmi-form-input[type="checkbox"], .wpdmi-form-input[type="radio"] { display:initial; }
+	input[type="submit"], .wpdmi-submit { display: block; margin: 0 auto; }
+}
+
+#wpdmi-profile-form h3 {
+	margin-top:20px !important;
+}
+#wpdmi-profile-form fieldset {
+	border:1px solid #ccc;
+	padding: 20px;
+}
+#wpdmi-profile-form p {
+	padding:0;
+}
+#wpdmi-profile-form #btn-submit {
+	background-color: #dd3333;
+	border:2px solid #dd3333;
+	border-radius: 5px;
+	padding: 6px 20px;
+	color: #fff;
+	font-size: 14pt;
+	font-weight: bold;
+	margin-top: 15px;
+}
+#wpdmi-profile-form #btn-update {
+	background-color: #dd3333;
+	border:2px solid #dd3333;
+	border-radius: 5px;
+	padding: 6px 20px;
+	color: #fff;
+	font-size: 14pt;
+	font-weight: bold;
+	margin-top: 15px;
+	display: none;
+}
+#wpdmi-profile-form #btn-update:hover {
+	cursor: pointer !important;
+	background-color: #981925;
+	border:2px solid #981925;
+}

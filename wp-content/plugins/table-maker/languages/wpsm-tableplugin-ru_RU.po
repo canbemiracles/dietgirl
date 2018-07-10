@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-06 14:55+0000\n"
+"PO-Revision-Date: 2017-09-06 14:56+0000\n"
+"Last-Translator: admin <bizdirect@ya.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"Report-Msgid-Bugs-To: "
+
+#. Description of the plugin
+msgid "Create tables with just a few clicks."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/table-maker/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wpsoul"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpsoul.com"
+msgstr ""
+
+#: inc/class-wpsm-list-table.php:38
+msgid "ID"
+msgstr "ID"
+
+#: inc/class-wpsm-list-table.php:39
+msgid "Name"
+msgstr "Имя"
+
+#: inc/class-wpsm-list-table.php:40 inc/class-wpsm-table-maker.php:263
+msgid "Rows"
+msgstr "Строки"
+
+#: inc/class-wpsm-list-table.php:41
+msgid "Columns"
+msgstr "Столбцы"
+
+#: inc/class-wpsm-list-table.php:42
+msgid "Sub-headers"
+msgstr "Подзголовки"
+
+#: inc/class-wpsm-list-table.php:43
+msgid "Color"
+msgstr "Цвета"
+
+#: inc/class-wpsm-list-table.php:44
+msgid "Responsive"
+msgstr "Адаптивная разметка"
+
+#: inc/class-wpsm-list-table.php:56
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/class-wpsm-list-table.php:57 inc/class-wpsm-list-table.php:77
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/class-wpsm-table-maker.php:49 inc/class-wpsm-table-maker.php:49
+msgid "Table Maker"
+msgstr "Редактор таблиц"
+
+#: inc/class-wpsm-table-maker.php:72 inc/class-wpsm-table-maker.php:167
+#: inc/class-wpsm-table-maker.php:177
+msgid "Click to edit"
+msgstr "Кликни для редактирования"
+
+#: inc/class-wpsm-table-maker.php:73
+msgid "Please enter valid numbers"
+msgstr "Укажите число"
+
+#: inc/class-wpsm-table-maker.php:74
+msgid "Please fill only one field"
+msgstr "Заполните только одно поле"
+
+#: inc/class-wpsm-table-maker.php:75
+msgid "Please specify number less than existing rows count"
+msgstr "Укажите число меньшее текущего количества строк"
+
+#: inc/class-wpsm-table-maker.php:76
+msgid "Please specify number less than existing cols count"
+msgstr "Укажите число меньшее текущего количества столбцов"
+
+#: inc/class-wpsm-table-maker.php:77
+msgid "Please enter valid numbers between 1 and"
+msgstr "Укажите число от 1 до "
+
+#: inc/class-wpsm-table-maker.php:87
+msgid "Add Table"
+msgstr "Добавить таблицу"
+
+#: inc/class-wpsm-table-maker.php:87 inc/class-wpsm-table-maker.php:91
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: inc/class-wpsm-table-maker.php:91
+msgid "Edit Table"
+msgstr "Редактировать таблицу"
+
+#: inc/class-wpsm-table-maker.php:97
+msgid "Tables"
+msgstr "Таблицы"
+
+#: inc/class-wpsm-table-maker.php:97
+msgid "Add New"
+msgstr "Добавить"
+
+#: inc/class-wpsm-table-maker.php:119
+msgid "Table Name"
+msgstr "Название таблицы"
+
+#: inc/class-wpsm-table-maker.php:126
+msgid "No"
+msgstr "Нет"
+
+#: inc/class-wpsm-table-maker.php:127
+msgid "Table row stack"
+msgstr "Стэк строк"
+
+#: inc/class-wpsm-table-maker.php:128
+msgid "Table column stack"
+msgstr "Стэк колонок"
+
+#: inc/class-wpsm-table-maker.php:130
+msgid "enable responsive stack style for mobile devices"
+msgstr "разрешить адаптивный стиль  для мобильных устройств"
+
+#: inc/class-wpsm-table-maker.php:133
+msgid "Resize Table"
+msgstr "Изменить размер таблицы"
+
+#: inc/class-wpsm-table-maker.php:134
+msgid "Switch Rows"
+msgstr "Поменять местами строки"
+
+#: inc/class-wpsm-table-maker.php:135
+msgid "Switch Cols"
+msgstr "Поменять местами столбцы"
+
+#: inc/class-wpsm-table-maker.php:136
+msgid "Add Inside"
+msgstr "Вставить"
+
+#: inc/class-wpsm-table-maker.php:137
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/class-wpsm-table-maker.php:139
+msgid "Grey"
+msgstr "Серый"
+
+#: inc/class-wpsm-table-maker.php:140
+msgid "Black"
+msgstr "Черный"
+
+#: inc/class-wpsm-table-maker.php:141
+msgid "Yellow"
+msgstr "Желтый"
+
+#: inc/class-wpsm-table-maker.php:142
+msgid "Blue"
+msgstr "Голубой"
+
+#: inc/class-wpsm-table-maker.php:143
+msgid "Red"
+msgstr "Красный"
+
+#: inc/class-wpsm-table-maker.php:144
+msgid "Green"
+msgstr "Зеленый"
+
+#: inc/class-wpsm-table-maker.php:145
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: inc/class-wpsm-table-maker.php:146
+msgid "Purple"
+msgstr "Малиновый"
+
+#: inc/class-wpsm-table-maker.php:159
+msgid "Add \"mark the first column\" class to shortcode"
+msgstr "Добавить в шорткод класс \"пометить первую строку\""
+
+#: inc/class-wpsm-table-maker.php:160
+msgid "Add \"center text align\" class to shortcode"
+msgstr "Добавить в шорткод класс \"выравнивание по центру\""
+
+#: inc/class-wpsm-table-maker.php:188
+msgid "Each cell supports html and shortcodes. "
+msgstr "Каждая ячейка допускает html и шорткоды"
+
+#: inc/class-wpsm-table-maker.php:191
+msgid "To add icons you can use these placeholders: "
+msgstr "Что бы добавить иконы вы можете использовать заполнители"
+
+#: inc/class-wpsm-table-maker.php:192
+msgid " makes row or col as featured."
+msgstr "сделать строку или столбец выделенной"
+
+#: inc/class-wpsm-table-maker.php:195
+msgid "Useful shortcodes:"
+msgstr "Полезные шорткоды:"
+
+#: inc/class-wpsm-table-maker.php:198
+msgid "Possible color attribute:"
+msgstr "Допустимые атрибуты цвета:"
+
+#: inc/class-wpsm-table-maker.php:198
+msgid "Possible sizes:"
+msgstr "Допустимые размеры:"
+
+#: inc/class-wpsm-table-maker.php:198
+msgid "Possible icons:"
+msgstr "Допустимые иконы:"
+
+#: inc/class-wpsm-table-maker.php:201
+msgid "Nembered circle. Place number in"
+msgstr "Нумерованные кружочки"
+
+#: inc/class-wpsm-table-maker.php:204
+msgid "Possible colors: "
+msgstr "Возможные ошибки"
+
+#: inc/class-wpsm-table-maker.php:207
+msgid "Animated bar. You can use any color"
+msgstr "Анимированный блок. Можно использовать любой цвет"
+
+#: inc/class-wpsm-table-maker.php:210
+msgid "Shows content only for logged users"
+msgstr "Показывать этот контент только залогиненым пользователям"
+
+#: inc/class-wpsm-table-maker.php:213
+msgid "Shows content only for not logged users"
+msgstr "Показывать этот контент только НЕ залогиненым пользователям"
+
+#: inc/class-wpsm-table-maker.php:220
+msgid "Image Helper"
+msgstr "Помошник с картинками"
+
+#: inc/class-wpsm-table-maker.php:221
+msgid "Upload or choose image here and copy code to table"
+msgstr "Загрузить или выбрать изображение и скопировать код в таблицу"
+
+#: inc/class-wpsm-table-maker.php:223
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: inc/class-wpsm-table-maker.php:253
+msgid "\",\" (comma)"
+msgstr "\",\" (просто запятой)"
+
+#: inc/class-wpsm-table-maker.php:254
+msgid "\";\" (semi-colon)"
+msgstr "\";\" (точка с запятой)"
+
+#: inc/class-wpsm-table-maker.php:260
+msgid "Change Table Size"
+msgstr "Изменить размер таблицы"
+
+#: inc/class-wpsm-table-maker.php:262
+msgid "Cols"
+msgstr "Колонки"
+
+#: inc/class-wpsm-table-maker.php:264
+msgid "Sub-header Rows (e.g.1,3,6)"
+msgstr "Номера строки-подзаголовков (через запятую, например 1,3,99)"
+
+#: inc/class-wpsm-table-maker.php:265 inc/class-wpsm-table-maker.php:286
+#: inc/class-wpsm-table-maker.php:293
+msgid "Apply"
+msgstr "применить"
+
+#: inc/class-wpsm-table-maker.php:270
+msgid "Row 1"
+msgstr "Строка 1"
+
+#: inc/class-wpsm-table-maker.php:271
+msgid "Row 2"
+msgstr "Строка 2"
+
+#: inc/class-wpsm-table-maker.php:272 inc/class-wpsm-table-maker.php:279
+msgid "Switch"
+msgstr "Поменять местами"
+
+#: inc/class-wpsm-table-maker.php:277
+msgid "Col 1"
+msgstr "Колонка 1"
+
+#: inc/class-wpsm-table-maker.php:278
+msgid "Col 2"
+msgstr "Колонка 2"
+
+#: inc/class-wpsm-table-maker.php:282
+msgid "Add Empty Row/Column"
+msgstr "Добавить пустую строку/колонку"
+
+#: inc/class-wpsm-table-maker.php:284
+msgid "Add empty col after (number)"
+msgstr "Добавить пустую колонку после"
+
+#: inc/class-wpsm-table-maker.php:285
+msgid "Add empty row after (number)"
+msgstr "Добавить пустую строку после"
+
+#: inc/class-wpsm-table-maker.php:289
+msgid "Delete Row/Column"
+msgstr "Удалить строку/колонку"
+
+#: inc/class-wpsm-table-maker.php:291
+msgid "Remove col (number)"
+msgstr "Переместить строку/колонку"
+
+#: inc/class-wpsm-table-maker.php:292
+msgid "Remove row (number)"
+msgstr "Удалить строку/колонку"
+
+#: inc/class-wpsm-table-maker.php:370
+msgid "Noname Table"
+msgstr "Безымянная таблица"
+
+#: inc/class-wpsm-table-maker.php:386
+msgid "The table has been created successfully!"
+msgstr "Таблица создана."
+
+#: inc/class-wpsm-table-maker.php:388
+msgid "The table has been updated successfully!"
+msgstr "Таблица обновлена"
+
+#: inc/class-wpsm-table-maker.php:390
+msgid "The table has been deleted successfully!"
+msgstr "Таблица удалена. "
+
+#: inc/class-wpsm-table-maker.php:425
+msgid "Please specify the table ID"
+msgstr "Укажите ID таблицы"
